@@ -1,0 +1,13 @@
+title: Naimish Gaur
+description: Notes on AI agents, coding, and projects.
+baseurl: ""
+url: "https://naimishgaur.github.io"
+github_username: naimishgaur
+timezone: Asia/Kolkata   # interpret post dates in IST — pre-dawn posts are "future" in UTC otherwise (Jekyll silently drops future-dated posts)
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  date_format: "%B %-d, %Y"
