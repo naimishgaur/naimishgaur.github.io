@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why a Powered USB-C Hub Made the Attached Keyboard Disappear"
-date: 2026-10-19 21:45:00 +0530
+date: 2026-10-19 00:00:00 +0530
 categories: macos usb hardware
 ---
 
